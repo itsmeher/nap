@@ -1,1 +1,2 @@
 # nap
+example for class
